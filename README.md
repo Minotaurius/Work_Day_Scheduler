@@ -23,6 +23,7 @@ In it's final form this application gives users a way to track their hectic life
 ```
 
 ## Deployed link to application
-
+https://minotaurius.github.io/Work_Day_Scheduler/
 
 ## Link to Repo storing application
+https://github.com/Minotaurius/Work_Day_Schedule
