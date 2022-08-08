@@ -18,9 +18,9 @@ THEN the saved events persist
 ```
 
 ## Description of application
-```
+
 In it's final form this application gives users a way to track their hectic life schedule. Once typing a "thing" that needs to get done....it will be saved in that time slot using local storage and upon reload of application will display again for user what things they have to do at what times. Application is still not complete and needs final touches.
-```
+
 
 ## Deployed link to application
 https://minotaurius.github.io/Work_Day_Scheduler/
